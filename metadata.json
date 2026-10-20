@@ -1,0 +1,6 @@
+{
+  "name": "나의 카페인 대사시계",
+  "description": "체중과 대사 속도, 마신 음료를 바탕으로 하루 동안 체내 카페인 잔존량과 밤 10시 수면 영향도를 시뮬레이션하는 교육용 대사 시계",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
